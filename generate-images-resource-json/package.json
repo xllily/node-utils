@@ -1,7 +1,7 @@
 {
   "name": "generate-images-resource-json",
   "version": "1.0.0",
-  "description": "for preload.js loadqueen",
+  "description": "for preload.js LoadQueue loadManifest",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {},
