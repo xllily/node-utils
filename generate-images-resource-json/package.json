@@ -1,0 +1,13 @@
+{
+  "name": "generate-images-resource-json",
+  "version": "1.0.0",
+  "description": "for preload.js loadqueen",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "generate": "node index.js"
+  },
+  "author": "「λ」xllily",
+  "license": "ISC"
+}
