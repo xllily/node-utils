@@ -51,6 +51,6 @@ var list = listFiles(floder).map(function(file, index) {
 });
 fs.writeFile("./images-resource.json", JSON.stringify(list), function(err) {
     if (err) throw err;
-    console.log("写入成功");
+    console.log("write successful");
 });
 
